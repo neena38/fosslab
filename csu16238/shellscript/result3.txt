@@ -1,0 +1,51 @@
+Calculator
+Enter first no:
+56
+Enter second no:
+8
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+Enter your choice:
+1
+Sum=64
+Do u want to continue?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+Enter your choice:
+2
+Sub=48
+Do u want to continue?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+Enter your choice:
+3
+Product=448
+Do u want to continue?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+Enter your choice:
+4
+Quotient=7
+Do u want to continue?
+y
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+Enter your choice:
+5
+Invalid choice
+Do u want to continue?
+n
+

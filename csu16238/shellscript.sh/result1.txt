@@ -1,8 +1,0 @@
-Hello World
-Currently logged user and his logname : exam
-Current shell: /bin/bash
-Current directory:/home/exam
-Computer Architecture details:i686
-Current path: /usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-Present working directory: /home/exam/csu16238/shellscript.sh
-No.of users: exam exam
