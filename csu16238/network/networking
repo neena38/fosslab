@@ -1,0 +1,12 @@
+#configuring network
+
+ifconfig -a
+
+sudo ifconfig wlo1 192.168.1.202 netmask 255.255.255.0
+
+route -n
+
+route add default gateway 192.168.0.8
+
+nano /etc/resolv.conf 
+
