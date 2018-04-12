@@ -1,7 +1,8 @@
 Fosslab
 
 This repository contains lab assignments done during the foss lab in semester 4.
-Topics Covered
+All the works are present in csu16238 directory.
+Topics Covered 
 
     Shell Scripting
         The Scripts associated can be found in the shellscript directory
